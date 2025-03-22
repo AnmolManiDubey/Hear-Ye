@@ -1,0 +1,11 @@
+# Ignore Python virtual environment folder
+api/venv/
+
+# Node modules for React
+client/node_modules/
+
+# Build output for React
+client/build/
+
+# Environment files
+*.env
