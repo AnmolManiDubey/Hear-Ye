@@ -1,5 +1,5 @@
 # Ignore Python virtual environment folder
-api/venv/
+api/henv/
 
 # Node modules for React
 client/node_modules/
